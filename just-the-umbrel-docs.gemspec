@@ -1,8 +1,8 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "just-the-umbrel-docs"
-  spec.version       = "0.0.5"
+  spec.name          = "umbrel-docs"
+  spec.version       = "0.1.0"
   spec.authors       = ["Aaron Dewes", "Patrick Marsceill"]
   spec.email         = ["aaron.dewes@web.de"]
 
