@@ -101,6 +101,9 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 # The scheme "light-or-dark" switches between "light" and "dark" with the system setting
 color_scheme: light-or-dark
 
+# Dark color scheme; activates auto-switching if not nil. Supports "dark" or a custom color scheme
+dark_color_scheme: nil
+
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 ga_tracking: UA-2709176-10
