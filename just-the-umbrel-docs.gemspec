@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "umbrel-docs"
-  spec.version       = "0.2.0"
+  spec.version       = "0.2.1"
   spec.authors       = ["Aaron Dewes", "Patrick Marsceill"]
   spec.email         = ["aaron.dewes@web.de"]
 

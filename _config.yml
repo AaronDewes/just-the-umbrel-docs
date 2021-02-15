@@ -102,11 +102,11 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 color_scheme: light-or-dark
 
 # Dark color scheme; activates auto-switching if not nil. Supports "dark" or a custom color scheme
-dark_color_scheme: nil
+dark_color_scheme: dark
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-2709176-10
+ga_tracking: 0
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
